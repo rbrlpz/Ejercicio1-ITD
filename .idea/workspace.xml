@@ -29,9 +29,9 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/main.xml" changelist="84ea750f-4693-41b6-8daf-832f98fb863e" time="1380063170557" ignored="false" />
     <file path="/Dummy.txt" changelist="84ea750f-4693-41b6-8daf-832f98fb863e" time="1380065494965" ignored="false" />
-    <file path="/nueva_ventana.java" changelist="84ea750f-4693-41b6-8daf-832f98fb863e" time="1380065792018" ignored="false" />
+    <file path="/nueva_ventana.java" changelist="84ea750f-4693-41b6-8daf-832f98fb863e" time="1380070016781" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="84ea750f-4693-41b6-8daf-832f98fb863e" time="1380065884889" ignored="false" />
-    <file path="/MyActivity.java" changelist="84ea750f-4693-41b6-8daf-832f98fb863e" time="1380068644842" ignored="false" />
+    <file path="/MyActivity.java" changelist="84ea750f-4693-41b6-8daf-832f98fb863e" time="1380069527116" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,17 +107,17 @@
       <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="68" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0">
+            <state line="28" column="97" selection-start="1053" selection-end="1075" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#644#880#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#750#1190#0" expanded="true" />
+                <element signature="e#1179#1180#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nueva_ventana.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="nueva_ventana.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/nueva_ventana.xml">
           <provider editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -129,10 +129,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nueva_ventana.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="nueva_ventana.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/nueva_ventana.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="52" selection-start="354" selection-end="393" vertical-scroll-proportion="0.0">
+            <state line="20" column="29" selection-start="685" selection-end="685" vertical-scroll-proportion="0.84750736">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,11 +168,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/MyActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/nueva_ventana.xml" />
         <option value="$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/nueva_ventana.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/MyActivity.java" />
-        <option value="$PROJECT_DIR$/res/layout/main.xml" />
       </list>
     </option>
   </component>
@@ -473,8 +473,8 @@
     <frame x="-3" y="-3" width="1031" height="779" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921812" sideWeight="0.6704731" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921812" sideWeight="0.6704731" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.6704731" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.6704731" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38477367" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -583,26 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="68" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#644#880#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/nueva_ventana.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="354" selection-end="393" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider editor-type-id="text-editor">
         <state line="19" column="13" selection-start="620" selection-end="628" vertical-scroll-proportion="0.0">
@@ -621,6 +601,26 @@
       </provider>
       <provider selected="true" editor-type-id="android-designer">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="97" selection-start="1053" selection-end="1075" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#750#1190#0" expanded="true" />
+            <element signature="e#1179#1180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itd/ClasicoHolaMundo/nueva_ventana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="29" selection-start="685" selection-end="685" vertical-scroll-proportion="0.84750736">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

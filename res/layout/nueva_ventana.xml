@@ -9,7 +9,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="New Text"
-        android:id="@+id/textView"
+        android:id="@+id/txtNuevoMensaje"
         android:textSize="20px"
         android:textStyle="bold|italic"
         android:textColor="#3fff00"/>
