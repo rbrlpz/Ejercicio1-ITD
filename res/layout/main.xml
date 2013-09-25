@@ -11,6 +11,12 @@
         android:text="Hello World, Rober"
         />
 
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtMensaje"
+        android:layout_gravity="left|center_vertical"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
